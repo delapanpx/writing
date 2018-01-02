@@ -1,0 +1,11 @@
+# Memperkenalkan Komunitas Beraksi atau KORSI
+
+KORSI awalnya merupakan komunitas gabungan yang ada di Museum Bank Mandiri Jakarta Pusat. Awalnya kami bernama Ruang Baca Kota, yang tujuan utamanya adalah sebagai komunitas yang bergerak dalam bidang Literasi. Namun karena RBK (Ruang Baca Kota) ini lebih eksklusif mengadakan kegiatan atas nama Museum Bank Mandiri, maka kami mencoba membuat sebuah komunitas sendiri yang terlepas dari Museum Bank Mandiri. Maka terpikirkan sebuah nama yaitu KORSI singkatan dari Komunitas Beraksi. Kami bisa dilihat melalui website aksikami.xyz. 
+
+Komunitas kami sendiri sebenarnya gabungan dari orang-orang yang berkecimpung dalam sebuah komunitas atau gerakan yang ada hubungannya dengan Literasi. Nama-nama komunitas yang sudah tergabung antara lain adalah: Sajubu, Buku Berkaki, dll. Kami sampai saat ini masih mencoba menggandeng Komunitas-komunitas lain yang mempunyai misi dan visi yang sama dengan kami. 
+
+Kenapa KORSI itu ada? Mungkin itu belum lebih jelas saya jelaskan di awal. Jadi ada sebuah pemikiran dari salah seorang founder KORSI yang mempertanyakan: sebenarnya kegiatan komunitas-komunitas literasi itu hampir sama, yaitu menggalang donasi buku, berbagi buku, dan mencoba membantu pemerintah mencerdaskan kehidupan Bangsa. Jadi KORSI mencoba menjembatani komunitas-komunitas tersebut supaya berjalan lebih mulus. 
+
+Misal saja ada salah satu komunitas yang kesulitan masalah pengiriman buku, maka komunitas yang lain yang tergabung dalam KORSI ini mencoba membantu pengiriman buku tersebut. Dan banyak hal lainnya yang bisa dijembatani oleh KORSI ini. Misal saja seperti penggalangan dana untuk membeli masker pada tragedi yang menimpa saudara kita yang ada di Kalimantan dan Sumatera, tragedi kebakaran hutan yang dampaknya sangat besar-bahkan sampai ke negara tetangga seperti Malaysia dan Singapura, setiap komunitas literasi pasti mempunyai program sendiri, tapi KORSI mencoba membantu kampanye penggalangan dana tersebut. 
+
+Apakah selamanya komunitas lain bergantung pada kami? Tidak, kami dari awal hanya berniat membantu saja, tidak ada niatan untuk membuat sebuah komunitas bergantung pada KORSI.

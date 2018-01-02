@@ -1,0 +1,7 @@
+Mengubur jenazah adalah sebuah kewajiban terutama untuk pemeluk agama Islam. Jenazah yang baru saja meninggal tidak boleh lama-lama dibiarkan begitu saja, terkadang proses menjadi lama karena ketersediaan tempat pemakaman cukup langka terutama untuk daerah yang sangat padat. 
+
+Dari pemikiran itulah ide ini muncul, yaitu menyediakan aplikasi mobile untuk mencari ketersediaan tempat pemakaman di daerah yang dekat dengan kita. Bahkan kita bisa membandingkan fitur atau layanan yang disediakan antara satu tempat pemakaman dengan tempat pemakaman yang lainnya. Dengan begitu memudahkan masyarakat terutama masyarakat yang tinggal di kota besar yang padat penduduknya.
+
+Sistem yang ada memungkinkan informasi selalu update dan didukung oleh customer support 7x24 jam. Sehingga pengguna dijamin akan mendapatkan tempat pemakaman yang  benar-benar tersedia. Bahkan kami telah bekerjasama dengan benerapa rumah sakit yang memiliki ambulan, untuk menyediakan layanan antar jemput buat pengguna aplikasi ini.
+
+Sistem pembayaran yang digunakan sudah mendukung hampir jenis pembayaran yang ada, mulai dari penggunaan kartu kredit, debit seperti transfer bank, pulsa, bahkan menerima pembayaran daring seperti Paypal dan Bitcoin. Kami juga telah bekerjasama dengan perusahaan leasing untuk kemudahan pembayaran secara kredit. Sehingga memudahkan pengguna di saat mendesak yang sedang tidak memiliki uang cash yang cukup untuk pemesanan tempat pemakaman.
