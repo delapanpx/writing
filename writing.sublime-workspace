@@ -116,8 +116,12 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/C/writing/Notes/malas-pindah-ke-linux.md",
 		"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms/_config.yml",
+=======
+		"/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+>>>>>>> a2ef129452a6363b2c39a5fe6ff11cc8e65ad35c
 		"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
 		"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
 		"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
@@ -243,7 +247,12 @@
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_sass/syntax.scss",
 		"/Z/Documents/Documents/Writing/Read/Pacaran di Jakarta.md",
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/tentang.md",
+<<<<<<< HEAD
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md"
+=======
+		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md",
+		"/C/writemonkey3/themes/wm-pitch-black.css"
+>>>>>>> a2ef129452a6363b2c39a5fe6ff11cc8e65ad35c
 	],
 	"find":
 	{
