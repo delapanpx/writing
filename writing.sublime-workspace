@@ -39,14 +39,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Notes/malas-pindah-ke-linux.md",
-			"settings":
-			{
-				"buffer_size": 227,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -124,6 +116,8 @@
 	},
 	"file_history":
 	[
+		"/C/writing/Notes/malas-pindah-ke-linux.md",
+		"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms/_config.yml",
 		"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
 		"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
 		"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
@@ -249,9 +243,7 @@
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_sass/syntax.scss",
 		"/Z/Documents/Documents/Writing/Read/Pacaran di Jakarta.md",
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/tentang.md",
-		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md",
-		"/C/writemonkey3/themes/wm-pitch-black.css",
-		"/C/Users/Gaben/Desktop/undangan nabil/photo_2017-12-02_20-53-15.jpg"
+		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md"
 	],
 	"find":
 	{
@@ -328,35 +320,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Notes/malas-pindah-ke-linux.md",
-					"settings":
-					{
-						"buffer_size": 227,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								226,
-								226
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
